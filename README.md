@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vicente Vendramin
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/vicentevendramin">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vicentevendramin&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentevendramin&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
