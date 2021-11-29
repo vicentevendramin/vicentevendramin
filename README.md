@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vicente Vendramin
+## Olá! Eu sou o Vicente
 
 <div align="center">
   <a href="https://github.com/vicentevendramin">
