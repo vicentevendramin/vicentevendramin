@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello! Welcome to my GitHub
 
 <div>
-  My name is Vicente, I'm 20 years old and I'm passionate about technology and video games.
+  My name is Vicente, I'm 21 years old and I'm passionate about technology and video games.
   I'm a Front-end web developer, studying to become Full Stack!
   I'm from Florianópolis, Santa Catarina, Brazil. I am also a European citizen, I have a Luxembourgish passport.
   In my free time I like to play with my friends, I also like to modify my games (sometimes I create mods).
