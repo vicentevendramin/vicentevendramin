@@ -11,7 +11,7 @@
 
 <p>👀 Former professional player of Resident Evil 4 <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/254700/93b645faca7f87c4b5a90d37a4b73faae98379d9.png" alt="RE4" width=30 /></p>
 <p>👻 Currently the best SoulsLike player in my room</p>
-<p>👨🏻‍💻 Studying C# and Java in free time</p>
+<p>👨🏻‍💻 I'm interested in learning PHP, C#, Java and Mobile Development</p>
 
 
 ## 💻 Skills
