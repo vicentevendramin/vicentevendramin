@@ -2,7 +2,7 @@
 
 <div>
   My name is Vicente, I'm 21 years old and I'm passionate about technology and video games.
-  I'm a Front-end web developer, studying to become Full Stack!
+  I'm a Full Stack Web Developer, studying Computer Science!
   I'm from Florianópolis, Santa Catarina, Brazil. I am also a European citizen, I have a Luxembourgish passport.
   In my free time I like to play with my friends, I also like to modify my games (sometimes I create mods).
 </div>
