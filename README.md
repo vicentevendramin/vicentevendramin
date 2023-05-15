@@ -42,20 +42,6 @@
   <img width=400 height=167 src="https://github-readme-stats.vercel.app/api?username=vicentevendramin&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img width=400 height=167 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentevendramin&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
- 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=vicentevendramin&theme=discord&row=1" alt="Vicente Vendramin" />
-</p>
-
-
-## 🐍 GitHub Snake
-<div align="center">
-  
-  ![Snake animation](https://github.com/vicentevendramin/vicentevendramin/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 ## 👥 Contact
