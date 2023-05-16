@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
 
