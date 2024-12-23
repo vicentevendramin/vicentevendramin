@@ -6,12 +6,6 @@
   In my free time I like to play with my friends, I also like to modify my games (sometimes I create mods).
 </div>
 
-## 🚀 About Me
-
-<p>👻 Currently the best SoulsLike player in my room</p>
-<p>👨🏻‍💻 I'm interested in learning Java and Mobile Development</p>
-
-
 ## 💻 Skills
 
 <p align="center">
